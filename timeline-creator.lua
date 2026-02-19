@@ -212,7 +212,7 @@ local function create_ui()
     
     local window = disp:AddWindow({
         ID = 'MainWindow',
-        WindowTitle = 'RMT Timeline Creator with Custom Tracks',
+        WindowTitle = 'Timeline Creator',
         Geometry = {100, 100, 420, 500},
         Spacing = 8,
         
